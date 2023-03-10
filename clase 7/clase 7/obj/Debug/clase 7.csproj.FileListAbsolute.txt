@@ -1,0 +1,7 @@
+C:\Users\MINEDUCYT\source\repos\clase 7\clase 7\bin\Debug\clase 7.exe.config
+C:\Users\MINEDUCYT\source\repos\clase 7\clase 7\bin\Debug\clase 7.exe
+C:\Users\MINEDUCYT\source\repos\clase 7\clase 7\bin\Debug\clase 7.pdb
+C:\Users\MINEDUCYT\source\repos\clase 7\clase 7\obj\Debug\clase 7.csproj.AssemblyReference.cache
+C:\Users\MINEDUCYT\source\repos\clase 7\clase 7\obj\Debug\clase 7.csproj.CoreCompileInputs.cache
+C:\Users\MINEDUCYT\source\repos\clase 7\clase 7\obj\Debug\clase 7.exe
+C:\Users\MINEDUCYT\source\repos\clase 7\clase 7\obj\Debug\clase 7.pdb
